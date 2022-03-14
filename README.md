@@ -9,4 +9,4 @@
 </div></br>
 
 Esse projeto foi construido usando ReactJs, foram utilizadas as bibliotecas Styled Components para fazer a estilização das páginas e Material-UI para utilização
-dos icones dentro do projeto. O design também está responsivo para ser exibido em Smartphones.
+dos icones dentro do projeto. O design também está responsivo para ser exibido em dispositivos Mobile.
