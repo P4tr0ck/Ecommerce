@@ -8,6 +8,6 @@
   <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-#### Para iniciar o projeto somente utilizar o comando "npm install" dentro da pasta Ecommerce e assim que os arquivos terminarem de instalar somente rodar o comando "npm start", para navegar entre as páginas será necessário abrir o arquivo "App.jsx" e trocar o componente <Home/> pela página que deseja vizualizar, por exemplo para abrir a página de registro basta trocar o <Home/> para <Register/>.
+#### Para iniciar o projeto somente utilizar o comando "npm install", "npm install --save styled-components" e "npm install @mui/material @emotion/react @emotion/styled" dentro da pasta Ecommerce,  e assim que os arquivos terminarem de instalar somente rodar o comando "npm start", para navegar entre as páginas será necessário abrir o arquivo "App.jsx" e trocar o componente <Home/> pela página que deseja vizualizar, por exemplo para abrir a página de registro basta trocar o <Home/> para <Register/>.
 
 Esse projeto foi construido usando ReactJs, foram utilizadas as bibliotecas Styled Components para fazer a estilização das páginas e Material-UI para utilização dos icones dentro do projeto. O design também está responsivo para ser exibido em dispositivos Mobile.
